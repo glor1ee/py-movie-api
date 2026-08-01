@@ -8,4 +8,4 @@ urlpatterns = [
          name="cinema-movie-details"),
 ]
 
-app_name = 'cinema'
+app_name = "cinema"
